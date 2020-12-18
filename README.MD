@@ -4,7 +4,7 @@ For this project a Telegram Bot has been coded for predicting in which frame of 
 
 > Bisection method is based on the fact that if f(x) is real and continuous function, and for two initial guesses x0 and x1 brackets the root such that: f(x0)f(x1) <0 then there exists at least one root between x0 and x1.
 
-A user stars a new conversation with the bot and then the bot sends him one frame of the video and asks whether something has already happened or not, and this continues until the algorithm finds the frame in which the action takes place.
+A user starts a new conversation with the bot and then the bot sends him one frame of the video and asks whether something has already happened or not, and this continues until the algorithm finds the frame in which the action takes place.
 
 ### Example on this repository:
 
